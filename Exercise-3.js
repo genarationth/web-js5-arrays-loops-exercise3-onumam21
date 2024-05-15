@@ -9,5 +9,5 @@ for (let i = 1; i <= 5; i++) {
     }
     
     // Print the row
-    console.log(row.trim());
+    console.log(row);
   }  
